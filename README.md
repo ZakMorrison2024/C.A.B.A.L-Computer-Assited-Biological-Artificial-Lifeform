@@ -1,4 +1,4 @@
-# C.A.B.A.L: Computer Assited Bio-Organic Artificial Lifeform
+# C.A.B.A.L: Computer Assited Biological Artificial Lifeform
 
 ### It's about f**king time!!
 
